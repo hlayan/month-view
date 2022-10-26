@@ -1,4 +1,4 @@
-package com.shan.monthviewtest.models
+package com.hlayan.monthview.models
 
 import java.time.DayOfWeek
 import java.time.LocalDate

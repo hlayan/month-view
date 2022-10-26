@@ -7,7 +7,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.shan.monthviewtest"
+        applicationId "com.hlayan.monthview"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 1

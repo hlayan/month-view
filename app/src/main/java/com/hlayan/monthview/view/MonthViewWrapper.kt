@@ -1,4 +1,4 @@
-package com.shan.monthviewtest.view
+package com.hlayan.monthview.view
 
 import android.content.Context
 import android.graphics.Color

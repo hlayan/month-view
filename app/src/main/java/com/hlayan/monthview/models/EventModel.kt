@@ -1,4 +1,4 @@
-package com.shan.monthviewtest.models
+package com.hlayan.monthview.models
 
 import java.time.LocalDate
 import java.time.temporal.ChronoUnit

@@ -1,9 +1,9 @@
-package com.shan.monthviewtest
+package com.hlayan.monthview
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.shan.monthviewtest.databinding.ActivityMainBinding
+import com.hlayan.monthview.databinding.ActivityMainBinding
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
 

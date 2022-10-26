@@ -1,4 +1,4 @@
-package com.shan.monthviewtest.view
+package com.hlayan.monthview.view
 
 import android.content.Context
 import android.graphics.*
@@ -6,7 +6,7 @@ import android.text.TextPaint
 import android.text.TextUtils
 import android.util.AttributeSet
 import android.view.View
-import com.shan.monthviewtest.models.EventModel
+import com.hlayan.monthview.models.EventModel
 import java.time.LocalDate
 
 class MonthViewEvent(

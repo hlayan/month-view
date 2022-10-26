@@ -1,4 +1,4 @@
-package com.shan.monthviewtest.view
+package com.hlayan.monthview.view
 
 import android.content.Context
 import android.graphics.Canvas
@@ -8,7 +8,7 @@ import android.graphics.Rect
 import android.text.TextPaint
 import android.util.AttributeSet
 import android.view.View
-import com.shan.monthviewtest.models.DayModel
+import com.hlayan.monthview.models.DayModel
 import java.time.LocalDate
 
 class MonthView(
